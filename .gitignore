@@ -1,0 +1,17 @@
+# 敏感文件
+.env
+user_token.json
+*.token.json
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# 日志
+*.log
+
+# 临时文件
+*.tmp
+.DS_Store
